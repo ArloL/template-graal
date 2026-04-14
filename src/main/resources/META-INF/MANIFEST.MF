@@ -1,0 +1,3 @@
+Description: This manifest is only here for testing purposes
+Implementation-Title: template-graal
+Implementation-Version: 0.0.1-SNAPSHOT
